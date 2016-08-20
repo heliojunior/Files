@@ -1,2 +1,3 @@
 
 ln -s /Volumes/Hd2/Projetos ~/projetos
+ln -s /Volumes/Hd2/Projetos/Sites ~/Sites
