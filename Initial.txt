@@ -2,3 +2,6 @@
 ln -s /Volumes/Hd2/Projetos ~/projetos
 ln -s /Volumes/Hd2/Projetos/Sites ~/Sites
 ln -s /Volumes/Hd2/Downloads ~/Downloads
+
+sudo ln -s /Volumes/Hd2/Audio/GarageBand GarageBand
+sudo ln -s /Volumes/Hd2/Audio/Logic Logic
